@@ -1,0 +1,10 @@
+* cl-ewkb
+
+Common Lisp PostGIS EWKB data model and encoder/decoder
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/filonenko-mikhail/cl-ewkb.git   |
+| commit  | 61f6b17  |
+| systems | cl-ewkb |
+|---------+-------------------------------------------|
+
